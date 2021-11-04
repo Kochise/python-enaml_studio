@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# author: d.koch
 # coding: utf-8
 # naming: pep-0008
 # typing: pep-0484
@@ -428,6 +429,7 @@
 #				|	loop.index
 #				|	loop.item
 #				+--	TreeViewItem
+#					|	icon <<
 #					|	items <<
 #					|	text <<
 #					+--	(TreeViewItem)
